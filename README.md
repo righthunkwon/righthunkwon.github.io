@@ -1,4 +1,6 @@
-# [PJT link](righthunkwon.github.io)
+# [PJT link](https://righthunkwon.github.io/)
+
+
 - 🏛️ Nomad Coders VanillaJS Challenge 35th (2023/03 ~ 2023/04)
 - 한 달 동안 JavaScript에 대해 배우며 Momentun App과 유사한 서비스를 구현했습니다.
 - JavaScript 기본 문법에 대해 익힐 수 있었고, API를 연동해보는 경험을 할 수 있었습니다.
